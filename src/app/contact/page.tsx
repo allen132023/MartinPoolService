@@ -14,8 +14,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    detail: "(555) 555-5555",
-    sub: "Mon-Fri, 8am to 5pm",
+    detail: "(520) 283-2882",
+    sub: "Mon-Sat, 6am to 5pm",
     href: "tel:+15555555555",
   },
   {
